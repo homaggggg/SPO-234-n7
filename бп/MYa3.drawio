@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2023-09-22T11:44:00.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6IeO_Iu__4P6mKnyjM-j" version="21.8.0" type="device">
+  <diagram name="Страница — 1" id="P9FV_Xzk2lutLAq6k9hc">
+    <mxGraphModel dx="932" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IrGOVNmgPddohnvpSUcD-2" value="&lt;h1&gt;БП2.2 ВНЕСЕНИЕ СЕРТИФИКАТА&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="70" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-3" target="IrGOVNmgPddohnvpSUcD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-5" target="IrGOVNmgPddohnvpSUcD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-5" value="СОХРАНЕНИЕ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-6" target="IrGOVNmgPddohnvpSUcD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-6" value="ВЫБОР СЕРТИФИКАТА" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-7" target="IrGOVNmgPddohnvpSUcD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-7" value="ПОДГОТОВКА ФАЙЛА" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-9" target="IrGOVNmgPddohnvpSUcD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-9" target="IrGOVNmgPddohnvpSUcD-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="160" />
+              <mxPoint x="190" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ПРОВЕРКА ОПЕРАЦИИ&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-15" value="СТРАНИЦА ВНЕСЕНИЯ СЕРТИФИКАТА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-16" value="ДА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-17" target="IrGOVNmgPddohnvpSUcD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-17" value="ПО" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-21" value="НЕТ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-23" target="IrGOVNmgPddohnvpSUcD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-23" value="АДМИН" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-25" target="IrGOVNmgPddohnvpSUcD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-25" value="АДМИН" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-27" target="IrGOVNmgPddohnvpSUcD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-27" value="ФОРМА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrGOVNmgPddohnvpSUcD-28" target="IrGOVNmgPddohnvpSUcD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IrGOVNmgPddohnvpSUcD-28" value="АЛГОРИТМ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
